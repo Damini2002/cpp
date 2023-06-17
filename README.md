@@ -1,2 +1,2 @@
 # cpp
-I will share all my cpp as well as dsa programs here
+I will share all my C++ as well as DSA programs here
